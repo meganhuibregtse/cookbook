@@ -4,3 +4,4 @@ This is a repository of recipes. This is part of a git/github workshop at NeuroH
 Table of Contents:
 1. Guacamole
 2. Vegetable soup
+3. Brownies
